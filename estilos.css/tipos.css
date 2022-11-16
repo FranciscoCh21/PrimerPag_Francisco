@@ -1,0 +1,16 @@
+body{
+    background-size: 160%;
+    /* height: auto;
+    width: auto; */
+    position:center top;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    /*text-align: center;*/
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+/* img{
+    display: flex;
+} */
+
